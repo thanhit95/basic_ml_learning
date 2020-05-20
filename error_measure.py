@@ -1,6 +1,7 @@
 import numpy as np
 from sklearn.metrics import mean_squared_error
-from math import sqrt
+# from math import sqrt
+
 
 y_expected = [0.0, 0.5, 0.0, 0.5, 0.0]
 y_expected = np.array(y_expected).reshape(len(y_expected), 1)
