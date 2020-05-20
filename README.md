@@ -3,7 +3,7 @@
 ## NUMPY
 Some stuffs with numpy.
 
-## PRACTIVE
+## PRACTICE
 Practise several learning models.
 
 ## MY NOTES
