@@ -1,5 +1,12 @@
-# My notes
+# MY BASIC MACHINE LEARNING
 
-Store my notes which are taken while reading
+## NUMPY
+Some stuffs with numpy.
 
-Notes are stored in Issues tab (because I can use label for managing notes)
+## PRACTIVE
+Practise several learning models.
+
+## MY NOTES
+Store my notes which are taken while reading.
+
+Notes are stored in Issues tab (because I can use label for managing notes).
