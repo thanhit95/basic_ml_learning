@@ -1,4 +1,4 @@
-# MY BASIC MACHINE LEARNING
+# BASIC MACHINE LEARNING SELF PRACTICE
 
 ## NUMPY
 Some stuffs with numpy.
@@ -9,4 +9,4 @@ Practise several learning models.
 ## MY NOTES
 Store my notes which are taken while reading.
 
-Notes are stored in Issues tab (because I can use label for managing notes).
+Notes are stored in Issues tab (because I use label for managing notes).
